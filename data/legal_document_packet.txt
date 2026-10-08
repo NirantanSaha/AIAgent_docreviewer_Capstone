@@ -1,0 +1,40 @@
+Contoso Data Processing Addendum Packet
+
+Parties:
+- Contoso Analytics Europe GmbH (Controller)
+- Northwind Cloud Services Pvt Ltd (Processor)
+
+Effective Date:
+15 July 2026
+
+Section 1: Scope and Roles
+The Processor will process customer-support telemetry and account profile data solely on documented instructions from the Controller and only for the hosted analytics services listed in the Master Services Agreement.
+
+Section 2: Security Controls
+The Processor will maintain encryption at rest, encryption in transit, role-based access control, privileged-access logging, and quarterly access reviews.
+
+Section 3: Subprocessor Approval
+The Processor may appoint subprocessors listed in Appendix A. New subprocessors require 15 days prior written notice to the Controller and will be deemed approved unless the Controller objects within that notice period.
+
+Section 4: Data Retention and Deletion
+Upon termination of the services, the Processor will return or delete personal data within 30 calendar days unless retention is required by law.
+
+Section 5: Audit Rights
+The Controller may conduct one audit once per contract year with 20 business days prior notice. The Controller may also request an additional audit following a material security incident.
+
+Section 6: Incident Notification
+The Processor will notify the Controller of a confirmed personal-data breach without undue delay and in no event later than within 48 hours of confirmation.
+
+Section 7: Cross-Border Transfers
+Any transfer of personal data outside the EEA must rely on the Standard Contractual Clauses or another valid transfer safeguard documented by the parties.
+
+Section 8: Limitation of Liability
+Except for fraud and willful misconduct, the Processor's aggregate liability under this addendum is capped at fees paid in the prior six months under the related services agreement.
+
+Section 9: Termination Assistance
+After termination, the Processor will provide transition assistance for up to 45 days at then-current professional-service rates.
+
+Appendix A: Operational Notes
+- Approved subprocessors include Fabrikam Hosting Pte Ltd and Alpine Metrics LLC.
+- The packet references a security annex, but the annex is not included in this training packet.
+- The packet does not include a separate data-retention schedule beyond Section 4.
