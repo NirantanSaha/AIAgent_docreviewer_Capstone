@@ -1,0 +1,14 @@
+Precedent 1: Schrems II Transfer Risk
+Cross-border transfers require a documented safeguard, and contracts that name the Standard Contractual Clauses generally reduce immediate transfer-risk ambiguity, though operational measures may still require review.
+
+Precedent 2: Audit Right Narrowness
+Enterprise customers often expect a mix of periodic audit rights and event-triggered review rights. A single annual audit right can be workable, but narrow notice windows and limited scopes may still create negotiation friction.
+
+Precedent 3: Liability Cap Mismatch
+When privacy obligations are broad but the liability cap is tied only to recent service fees, legal teams often flag whether the cap is proportionate to regulatory and incident-response exposure.
+
+Precedent 4: Subprocessor Objection Model
+An opt-out or deemed-approved model for new subprocessors is common in cloud agreements, but privacy teams may ask for stronger objection rights or termination rights when objections cannot be resolved.
+
+Precedent 5: Deletion Window Clarity
+Explicit deletion periods after termination usually reduce operational ambiguity. Missing or overly broad deletion timelines often trigger follow-up review.
